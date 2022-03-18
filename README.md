@@ -1,4 +1,4 @@
-### Oláa, eu sou o Gabriel Vieira ✌😁
+### Olá, eu sou o Gabriel Vieira ✌😁
 
 
    Aqui está um pouco do que estou Estudando/Aprimorando 
