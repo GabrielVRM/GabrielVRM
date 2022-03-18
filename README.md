@@ -5,7 +5,7 @@
 
 - 🔭 Hoje estou trabalhando e estudando o Front-end..
 - 📚 Foco em JavaScript e React 
-- 🌏 Gosto de estilizar minhas Aplicações a biblioteca do Material UI
+- 🌏 Gosto de estilizar minhas Aplicações com a biblioteca do Material UI
 - 💻 tenho facilidade em Banco de Dados com Mysql 
 
 <br/>
