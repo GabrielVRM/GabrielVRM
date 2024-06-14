@@ -3,10 +3,10 @@
 
    Aqui está um pouco do que estou Estudando/Aprimorando 
 
-- 🔭 Hoje estou trabalhando e estudando o Front-end..
-- 📚 Foco em JavaScript e React 
-- 🌏 Gosto de estilizar minhas Aplicações com a biblioteca do Material UI
-- 💻 tenho facilidade em Banco de Dados com Mysql 
+- 🔭 Hoje estou trabalhando e estudando o Frontend & Backend
+- 📚 Foco em JavaScript + React e NodeJS + Express
+- 🌏 Gosto de estilizar minhas Aplicações com a biblioteca do styled components
+- 💻 tenho facilidade em Banco de Dados com Mysql Workbanch 
 
 <br/>
 <br/>
