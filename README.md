@@ -4,7 +4,7 @@
    Aqui está um pouco do que estou Estudando/Aprimorando 
 
 - 🔭 Hoje estou trabalhando e estudando o Frontend & Backend
-- 📚 Foco em JavaScript + React e NodeJS + Express
+- 📚 Foco em Typescript + React e NodeJS com Express , fatify e NestJs
 - 🌏 Gosto de estilizar minhas Aplicações com a biblioteca do styled components
 - 💻 tenho facilidade em Banco de Dados com Mysql Workbanch 
 
